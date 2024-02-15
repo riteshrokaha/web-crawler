@@ -1,0 +1,45 @@
+Arctic Ostracode Database 2010
+Dataset for 'Effect of damping on performance of magnetostrictive vibration energy harvester'.
+Capacity fade detection in lithium-ion batteries using non-linear frequency response analysis (NFRA) under multiple open-circuit voltages (OCVs)
+Data-set for Cybersecurity Decision-making Exercise 2
+Risk of bias assessment PTSD
+Risk of Bias 2 assessments for dropout
+Risk of Bias 2 assessments for adverse outcomes
+Risk of Bias 2 assessments for depression
+Data-set for Cybersecurity Decision-making Exercise 1
+Data for The Role of Organizational Culture and Climate for Well-Being among Police Custody Personnel: A Multilevel Examination
+Investigation into the Aerodynamic Performance of a Concept Sports Car - Supplementary data
+Bathing facilities &amp;  health phronesis
+The Interpersonal Theory of Suicide in Autistic and Non-autistic Adults
+Content Analysis of 51 Stillbirth Memento Photographs
+Introduction history mediates naturalization and invasiveness of cultivated plants
+A machine learning based software pipeline to pick the variable ordering for algorithms with polynomial inputs
+Dataset supporting "Using Machine Learning to decide when to Precondition Cylindrical Algebraic Decomposition with Groebner Bases"
+EPSRC HEED Data Repository: Stove Use Monitoring System
+Explainable AI Insights for Symbolic Computation: A case study on selecting the variable ordering for cylindrical algebraic decomposition
+Data-set for "Religious Rituals Increase Social Bonding and Pain Threshold"
+Dataset supporting the paper: Truth table invariant cylindrical algebraic decomposition
+EPSRC HEED Data Repository: Nepal Household Appliance Survey
+Dataset supporting the paper: Symbolic Versus Numerical Computation and Visualization of Parameter Regions for Multistationarity of Biological Networks
+Software supporting the paper: "Comparing machine learning models to choose the variable ordering for cylindrical algebraic decomposition"
+Ecosystem services as the silver bullet? A systematic review of how ecosystem services assessments impact biodiversity prioritisation in policy - Annex 1
+Data from: Resolving a heated debate: the utility of prescribed burning as a management tool for biodiversity on lowland heath
+Data and code for the paper New heuristic to choose a cylindrical algebraic decomposition variable ordering motivated by complexity analysis
+EPSRC-funded Humanitarian Engineering and Energy for Displacement (HEED) datasets
+Exploring the predictors of physical inactivity in a university setting
+E2-Create Motion Bank Dataset
+E2-Create Instituto Stocos Dataset
+Active quantum flocks
+Data collected in Indonesia
+Spatio-temporal graffiti in Belfast
+EPSRC HEED Data Repository: Individual Appliance Monitoring System
+EPSRC HEED Data Repository: Footfall Monitoring System
+Alien Futures Horizon Scanning dataset
+Dataset of automated economic reasoning problems for QE / SMT
+SMT-Solving Induction Proofs of Inequalities Benchmarking Repository
+EPSRC HEED Data Repository: Lantern Monitoring System
+EPSRC HEED Data Repository: Surveys
+Intelligent RF Sensing for Falls and Health Prediction - INSHEP - Dataset
+Supplementary material for the publication: J.D. Nixon, K. Bhargava and E. Gaura, Energy Performance Gap in Community-Based Solar Energy Interventions: Lessons from two Rwandan Refugee Camps, 2020
+Supplementary material for the publication: J. D. Nixon, K. Bhargava and E. Gaura, Analysis of standalone solar streetlights for improved energy access in displaced settlements, 2020.
+Dataset supporting the paper: "A Case Study on the Parametric Occurrence of Multiple Steady States"
